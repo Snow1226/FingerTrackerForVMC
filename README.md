@@ -1,0 +1,2 @@
+VirtualMotionCapture用Mod  
+シリアルポート経由で受信した指の角度をアバターに反映するだけ。
